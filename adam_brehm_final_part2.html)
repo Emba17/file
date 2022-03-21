@@ -1,0 +1,28 @@
+Prog 109 Final Portfolio Submission Questions
+
+
+•	What was your previous knowledge of HTML/CSS/JavaScript?
+
+. I understood HTML was the "language" used to code websites. I was aware that JavaScript existed and that it was a coding "protocol" that was utilized in webpages. Cascading style sheets were a term I had heard before but had no idea what they were.
+
+•	Did you use a template, or did you build your portfolio from scratch?
+
+I used to temple because it made it a lot easier for me to grasp what I was doing. For example, you gave us everything on us and it looked great.
+
+•	What was your most challenging part of your portfolio (IE, the template, artifacts, CSS, etc.)
+
+The CSS and the way div> elements interact and behave must be to blame.
+Let's start with div>. Unless there is something visible in a div> element, it will not be shown. The only visible impact of setting their height to 100 and adding a border is a double horizontal line of your "border." When you put something in them, such as text or a photo, they appear and, for the most part, alter their height accordingly.
+It was considerably more difficult for me to adjust.
+
+
+•	How taking this class changed your view on Web Development? 
+
+At the very least, the first HTML, CSS, and JavaScript programmers have my undying admiration. Because they have to deal with different browser implementations of it all, as well as what I perceive to be idiosyncrasies in the standards (as mentioned above), they are certain to have more brain scars than I have! I can't imagine how difficult it is for other developers to deal with this problem.
+
+•	What would you recommend to future students taking this class?\
+
+I took PROG 109 AND 3D DESIGN for this quoter, and I believe that people should attend this class in person so that they can understand the work because it was difficult for me to understand what the assignment was.
+This is because if you understand how things function at the lowest levels, you can go back to the lowest level to figure out what went wrong if something goes wrong with your top-level items.
+
+
